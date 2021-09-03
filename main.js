@@ -1,0 +1,7 @@
+console.log("My first console project")
+console.log("ArmaanShahi")
+console.log("5,2")
+console.log("7")
+console.log("3")
+console.log("10")
+console.loh("2.5")
